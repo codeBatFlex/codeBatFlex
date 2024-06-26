@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - 😄 Pronouns: he/his
-- ⚡ 
+- ⚡ Strating new PROJECT
 
 <!---
 codeBatFlex/codeBatFlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
